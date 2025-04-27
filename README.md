@@ -66,3 +66,9 @@ python recognize_faces.py
 ```
 python eval_accuracy.py
 ```
+
+7. Credits
+```
+Created by: Ruchir Kulkarni
+For suggestions, contact: ruchirkulkarni22@gmail.com
+```
